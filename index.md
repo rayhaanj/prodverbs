@@ -20,6 +20,7 @@ Not only will users depend on all features, they will assume that they have an [
 
 [hyrumslaw.com](https://www.hyrumslaw.com/)
 
+[XKCD: Workflow](https://xkcd.com/1172/)
 
 
 ## When in doubt, the SLO is the status quo. {#slo-status-quo}
